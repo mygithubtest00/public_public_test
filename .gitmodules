@@ -1,0 +1,3 @@
+[submodule "public_private_test"]
+	path = public_private_test
+	url = https://mygithubtest00@github.com/mygithubtest00/public_private_test.git
